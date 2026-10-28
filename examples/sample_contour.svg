@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="40mm" viewBox="0 0 60 40">
+  <title>Sample closed contour - dimensions interpreted as millimetres</title>
+  <path d="M 8 6 L 52 6 L 52 34 L 8 34 Z" fill="none" stroke="black" stroke-width="0.2" />
+</svg>
